@@ -21,7 +21,7 @@ Key features
 ─────────────────────────────────────────────────────────────────────────
 
 Dataset used
-free dataset available on kaggle: https://wmv.kaggle.com/datasets/krishnavamsis/nike-sales
+https://wmv.kaggle.com/datasets/krishnavamsis/nike-sales
 
 ─────────────────────────────────────────────────────────────────────────
 
