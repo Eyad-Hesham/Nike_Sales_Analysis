@@ -12,8 +12,6 @@ Tools Used:
 
 • Microsoft Excel
 
-• Adobe Photoshop
-
 ─────────────────────────────────────────────────────────────────────────
 
 Key features
