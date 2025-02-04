@@ -14,9 +14,15 @@ Tools Used:
 ─────────────────────────────────────────────────────────────────────────
 
 Key features
-• Data cleaning and transformation. • Interactive dashboard using Power Bl.
+
+• Data cleaning and transformation.
+
+• Interactive dashboard using Power Bl.
+
 • analyzing the sales performance through years
+
 • Extract important insights about popular genres, release years. and ratings distributions.
+
 
 ─────────────────────────────────────────────────────────────────────────
 
@@ -27,13 +33,21 @@ https://wmv.kaggle.com/datasets/krishnavamsis/nike-sales
 ─────────────────────────────────────────────────────────────────────────
 
 Questions (KPIs)
+
 1 .How many retailers deal with Nike?
+
 2.count of states that have sales been made with Nike
+
 3.percentage of sales according to its sales method
+
 4.trari line for sales and sales method
+
 5.sales per each product and its sales method
+
 6What is the highest-achieving sales method for each retailer?
+
 7.Who are most familiar with buying from outlets?
+
 8. Top 5 states according to women products sales
 
 ─────────────────────────────────────────────────────────────────────────
