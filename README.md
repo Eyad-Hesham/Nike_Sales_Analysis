@@ -7,8 +7,11 @@ resource for data enthusiasts and businesses alike.
 ─────────────────────────────────────────────────────────────────────────
 
 Tools Used:
+
 • Power Bi
+
 • Microsoft Excel
+
 • Adobe Photoshop
 
 ─────────────────────────────────────────────────────────────────────────
