@@ -38,4 +38,5 @@ Questions (KPIs)
 ─────────────────────────────────────────────────────────────────────────
 
 Interactive dashboard on power bi services:
+
 https://app.powerbi.com/groups/3a074fbc-a658-4acd-b459-13682506e70e/reports/87831cb8-2a11-43a3-a4c1-40bcd7b96fe8/a014e3876c4a10cbca73?experience=power-bi
