@@ -34,7 +34,7 @@ https://wmv.kaggle.com/datasets/krishnavamsis/nike-sales
 
 Questions (KPIs)
 
-1 .How many retailers deal with Nike?
+1.How many retailers deal with Nike?
 
 2.count of states that have sales been made with Nike
 
@@ -44,11 +44,11 @@ Questions (KPIs)
 
 5.sales per each product and its sales method
 
-6What is the highest-achieving sales method for each retailer?
+6.What is the highest-achieving sales method for each retailer?
 
 7.Who are most familiar with buying from outlets?
 
-8. Top 5 states according to women products sales
+8.Top 5 states according to women products sales
 
 ─────────────────────────────────────────────────────────────────────────
 
